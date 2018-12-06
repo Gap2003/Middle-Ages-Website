@@ -1,0 +1,57 @@
+/* Page Styles */
+html {
+    background: url(images/castle.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+div {
+    border-radius: 25px;
+    width: 600px;
+    margin: 10px auto;
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 30px 30px;
+}
+/* Part Styles */
+.pt1, .pt2, .pt3, .pt4, .Headings {
+    border: 3px solid rgb(50, 50, 50);
+    color: white
+}
+/* Heading Styles */
+.Beliefs {
+    font-size: 25px
+}
+h2, h3 {
+    font-family: 'Roboto Slab', serif;
+    color: white;
+
+}
+h1 {
+    color: black;
+     text-align: center;
+     letter-spacing: 2px;
+      font-size: 100px;
+      text-shadow: 1.5px 1.5px white;
+      font-variant: small-caps;
+      font-family: 'Raleway', sans-serif;
+    }
+    /* Paragraph Styles */
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+letter-spacing: 0.5px
+}
+span {
+    font-family: Papyrus;
+}
+/* Link Styles */
+a {
+    color:white;
+     text-decoration: none
+    }
+a:hover {
+    text-decoration: underline
+}
+/* Image Style */
+img {
+    width: 30px;
+    height: 30px;
+     vertical-align: middle
+    }
